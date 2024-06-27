@@ -1,0 +1,14 @@
+/* CSS For Servicios */
+
+.card {
+    border: 1px solid #ffffff;
+    height: 460px;
+    width: 350px;
+}
+
+/* Medias queries for mobile desktop */
+@media (max-width: 768px) {
+    .card {
+        width: 100%;
+    }
+}
